@@ -1,29 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\",
+  "WorkspaceRootPath": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\github\\mcp\\mcp\\aigateway\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\services\\mcpexplainorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:services\\mcpexplainorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\github\\mcp\\mcp\\aigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\controllers\\explaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\github\\mcp\\mcp\\aigateway\\services\\mcpexplainorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:services\\mcpexplainorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\github\\mcp\\mcp\\aigateway\\controllers\\explaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:controllers\\explaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\models\\explainresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:models\\explainresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\aigateway\\models\\explainrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|c:\\users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\github\\mcp\\mcp\\aigateway\\models\\explainrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2047D1A-07B4-42B2-9B5F-DCB960A9A264}|AiGateway.csproj|solutionrelative:models\\explainrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,30 +30,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExplainResponse.cs",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Models\\ExplainResponse.cs",
-              "RelativeDocumentMoniker": "Models\\ExplainResponse.cs",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Models\\ExplainResponse.cs",
-              "RelativeToolTip": "Models\\ExplainResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:53:23.374Z",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-17T11:49:06.3Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:10:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "McpExplainOrchestrator.cs",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Services\\McpExplainOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Services\\McpExplainOrchestrator.cs",
               "RelativeDocumentMoniker": "Services\\McpExplainOrchestrator.cs",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Services\\McpExplainOrchestrator.cs",
+              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Services\\McpExplainOrchestrator.cs",
               "RelativeToolTip": "Services\\McpExplainOrchestrator.cs",
-              "ViewState": "AgIAAJQBAAAAAAAAAAAAwJ8BAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T15:11:25.727Z",
               "EditorCaption": ""
@@ -66,52 +76,26 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ExplainController.cs",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Controllers\\ExplainController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Controllers\\ExplainController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExplainController.cs",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Controllers\\ExplainController.cs",
+              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Controllers\\ExplainController.cs",
               "RelativeToolTip": "Controllers\\ExplainController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T11:38:47.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-17T11:49:06.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ExplainRequest.cs",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Models\\ExplainRequest.cs",
+              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Models\\ExplainRequest.cs",
               "RelativeDocumentMoniker": "Models\\ExplainRequest.cs",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Models\\ExplainRequest.cs",
+              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\GitHub\\mcp\\mcp\\AiGateway\\Models\\ExplainRequest.cs",
               "RelativeToolTip": "Models\\ExplainRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T10:46:20.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\1\\\u05EA\u05D5\u05DB\u05E0\u05D9\u05D5\u05EA\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\mcp\\AiGateway\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:10:35.011Z",
               "EditorCaption": ""
             }
           ]

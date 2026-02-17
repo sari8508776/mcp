@@ -1,3 +1,9 @@
-﻿namespace McpCodeExplainer.Models;
+﻿
+namespace McpCodeExplainer.Models;
 
-public sealed record ExplainRequest(string Subject,string Addressee, string Language = "Hebrew");
+public sealed record ExplainRequest(
+    string Subject,
+    string Language,
+    string Addressee,
+    string? Code
+);

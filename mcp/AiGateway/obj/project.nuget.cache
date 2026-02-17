@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dbO3atXJP44=",
+  "dgSpecHash": "tgA/lH5ddSI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\תוכניות\\OneDrive\\שולחן העבודה\\mcp\\AiGateway\\AiGateway.csproj",
+  "projectFilePath": "C:\\Users\\1\\תוכניות\\OneDrive\\מסמכים\\GitHub\\mcp\\mcp\\AiGateway\\AiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

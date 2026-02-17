@@ -2,13 +2,13 @@
   {
     "ContainingType": "McpCodeExplainer.Controllers.ExplainController",
     "Method": "Explain",
-    "RelativePath": "api/Explain",
+    "RelativePath": "api/Explain/explain",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "req",
+        "Name": "request",
         "Type": "McpCodeExplainer.Models.ExplainRequest",
         "IsRequired": true
       }

@@ -5197,11 +5197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\תוכניות\\OneDrive\\שולחן העבודה\\mcp\\AiGateway\\AiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\1\\תוכניות\\OneDrive\\מסמכים\\GitHub\\mcp\\mcp\\AiGateway\\AiGateway.csproj",
       "projectName": "AiGateway",
-      "projectPath": "C:\\Users\\1\\תוכניות\\OneDrive\\שולחן העבודה\\mcp\\AiGateway\\AiGateway.csproj",
+      "projectPath": "C:\\Users\\1\\תוכניות\\OneDrive\\מסמכים\\GitHub\\mcp\\mcp\\AiGateway\\AiGateway.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\תוכניות\\OneDrive\\שולחן העבודה\\mcp\\AiGateway\\obj\\",
+      "outputPath": "C:\\Users\\1\\תוכניות\\OneDrive\\מסמכים\\GitHub\\mcp\\mcp\\AiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
