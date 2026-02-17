@@ -20,7 +20,9 @@ public class ExplainController : ControllerBase
      [FromBody] ExplainRequest req,
      CancellationToken ct)
     {
-        if (string.IsNullOrWhiteSpace(req.Code))
+        if (string.IsNullOrWhiteSpace(req.Subject  ))
+            return BadRequest("Code is required.");
+        if (string.IsNullOrWhiteSpace(req.Addressee))
             return BadRequest("Code is required.");
 
         var result = await _orchestrator.ExplainAsync(req, ct);

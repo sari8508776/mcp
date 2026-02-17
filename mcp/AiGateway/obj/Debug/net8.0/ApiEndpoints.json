@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "McpCodeExplainer.Controllers.ExplainController",
+    "Method": "Explain",
+    "RelativePath": "api/Explain",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "McpCodeExplainer.Models.ExplainRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "McpCodeExplainer.Models.ExplainResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
