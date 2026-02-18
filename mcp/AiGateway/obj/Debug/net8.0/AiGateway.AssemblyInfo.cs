@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a31ee3c1b8c99b13cf73c1d797f46ff64a7f51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b41d39de1894ea1bd76a553719412c5b2b528b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
