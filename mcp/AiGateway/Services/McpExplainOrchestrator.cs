@@ -103,13 +103,11 @@ public sealed class McpExplainOrchestrator
     private readonly HttpClient _httpClient;
     private readonly string _apiKey;
 
-    // שימוש בגרסה v1beta שנמצאה תקינה בדפדפן שלך
-    // הכתובת הזו היא הכי יציבה כרגע
+   
     private const string GeminiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"; public McpExplainOrchestrator(HttpClient httpClient)
     {
         _httpClient = httpClient;
 
-        // שליחת המפתח מהסביבה (וודאי שהגדרת אותו ב-.env בתיקיית השורש)
         var rawKey = Environment.GetEnvironmentVariable("GEMINI_API_KEY");
         _apiKey = rawKey?.Trim() ?? "";
 
@@ -119,7 +117,6 @@ public sealed class McpExplainOrchestrator
 
     public async Task<ExplainResponse> ExplainAsync(ExplainRequest req, CancellationToken ct)
     {
-        // בניית הפרומפט בצורה נקייה
         var greetingPrompt = $"""
         Write a personal, heartfelt, and moving greeting.
         Length: Maximum 50 words.
@@ -132,7 +129,6 @@ public sealed class McpExplainOrchestrator
 
         try
         {
-            // בניית ה-JSON בדיוק לפי המבנה שגוגל דורשת
             var requestBody = new
             {
                 contents = new[]
@@ -144,26 +140,22 @@ public sealed class McpExplainOrchestrator
             var jsonPayload = JsonSerializer.Serialize(requestBody);
             var content = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
 
-            //var finalUrl = $"{GeminiUrl}?key={_apiKey}";
             var finalUrl = $"{GeminiUrl}?key={_apiKey}";
             Console.WriteLine($"DEBUG: The final URL is: {finalUrl}");
 
             var response = await _httpClient.PostAsync(finalUrl, content, ct);
             var responseJson = await response.Content.ReadAsStringAsync(ct);
 
-            // טיפול בשגיאות מכסה (Quota)
             if (response.StatusCode == HttpStatusCode.TooManyRequests)
             {
                 return new ExplainResponse("המכסה החינמית הסתיימה. נסי שוב בעוד דקה.");
             }
 
-            // טיפול בכל שגיאה אחרת (כמו 404 או 400)
             if (!response.IsSuccessStatusCode)
             {
                 return new ExplainResponse($"שגיאת שרת גוגל ({response.StatusCode}): {responseJson}");
             }
 
-            // חילוץ הטקסט מהתשובה
             var greeting = ExtractTextFromJson(responseJson);
             return new ExplainResponse(greeting);
         }
@@ -179,7 +171,6 @@ public sealed class McpExplainOrchestrator
         {
             using var doc = JsonDocument.Parse(json);
 
-            // ניווט במבנה ה-JSON של Gemini
             if (doc.RootElement.TryGetProperty("candidates", out var candidates) && candidates.GetArrayLength() > 0)
             {
                 return candidates[0]

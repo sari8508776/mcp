@@ -42,7 +42,6 @@ public class ExplainController : ControllerBase
     [HttpPost("generate-greeting")]
     public async Task<IActionResult> Explain([FromBody] ExplainRequest request, CancellationToken ct)
     {
-        // בדיקה בסיסית שהנתונים הגיעו
         if (request == null || string.IsNullOrWhiteSpace(request.Subject))
         {
             return BadRequest("נא למלא את כל שדות החובה בבקשה.");
